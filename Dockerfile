@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER Chieh Yu <welkineins@gmail.com>
+MAINTAINER Feng Song <franksongfeng@yahoo.com>
 
 ENV HOME /root
 ENV DEBIAN_FRONTEND noninteractive
