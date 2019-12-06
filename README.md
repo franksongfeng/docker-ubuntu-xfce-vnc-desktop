@@ -11,7 +11,8 @@ $ docker pull franksongfeng/ubuntu-xfce-vnc-desktop
 
 ``
 $ git clone https://github.com/franksongfeng/docker-ubuntu-xfce-vnc-desktop.git
-
+``
+``
 $ docker build --rm -t franksongfeng/ubuntu-xfce-vnc-desktop docker-ubuntu-xfce-vnc-desktop
 ``
 
