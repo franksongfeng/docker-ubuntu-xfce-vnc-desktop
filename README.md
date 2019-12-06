@@ -4,7 +4,7 @@ docker-ubuntu-xfce-vnc-desktop
 ### From Docker Repository
 
 ``
-$ docker pull franksongfeng/docker-ubuntu-xfce-vnc-desktop
+$ docker pull franksongfeng/ubuntu-xfce-vnc-desktop
 ``
 
 ### Build yourself
