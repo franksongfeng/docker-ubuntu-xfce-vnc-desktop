@@ -5,8 +5,10 @@ ENV HOME /root
 ENV DEBIAN_FRONTEND noninteractive
 
 RUN apt-get update \
-	&& apt-get install -y supervisor \
-		openssh-server vim-tiny \
+	&& apt-get install -y apt-utils net-tools iputils-ping \
+		vim-tiny \
+		supervisor \
+		openssh-server \
 		xfce4 xfce4-goodies \
 		x11vnc xvfb \
 		firefox \
